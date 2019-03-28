@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SPOOK App</string>
+
+    <string name="radio_laki">Laki-laki</string>
+    <string name="radio_perempuan">Perempuan</string>
+    <string name="pilihkelamin">Jenis Kelamin</string>
+
+
+    <string-array name="android_layout_arrays1">
+        <item>--- Pilih ---</item>
+        <item>Guru</item>
+        <item>Orang Tua</item>
+    </string-array>
+
+    <string-array name="android_layout_arrays2">
+        <item>--- Pilih ---</item>
+        <item>X1</item>
+        <item>X2</item>
+        <item>X3</item>
+        <item>X4</item>
+        <item>XI IPA 1</item>
+        <item>XI IPA 2</item>
+        <item>XI IPS 1</item>
+        <item>XII IPA 1</item>
+        <item>XII IPA 2</item>
+        <item>XII IPS 1</item>
+        <item>XII IPS 2</item>
+        <item>XII IPS 3</item>
+
+    </string-array>
+
+
+</resources>
